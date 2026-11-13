@@ -1,5 +1,7 @@
 # Clarity — Finance made simpler
 
+[🌐 View the live site on Vercel](https://clarity-landing-page-nine.vercel.app/)
+
 A responsive landing page for tax and financial compliance support. Built with plain HTML and CSS using the supplied Figma design and image assets.
 
 ## Run locally
