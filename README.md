@@ -18,4 +18,4 @@ The original Figma file is `FIGMA.fig`. The supplied image and icon files are in
 
 ## Live site
 
-Deployment URL will be added here after publishing.
+[Open the Clarity landing page](https://clarity-landing-page-nine.vercel.app/)
