@@ -1,6 +1,6 @@
 .deep-copilot/
 .playwright-mcp/
-.vercel/
+.vercel
 node_modules/
 dist/
 .env*
