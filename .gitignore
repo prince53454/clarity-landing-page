@@ -1,0 +1,11 @@
+.deep-copilot/
+.playwright-mcp/
+.vercel/
+node_modules/
+dist/
+.env*
+*.log
+landing-desktop.png
+figma-landing-desktop.png
+desktop-run-check.png
+mobile-run-check.png
