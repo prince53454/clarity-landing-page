@@ -166,9 +166,11 @@ a:focus-visible, summary:focus-visible { outline: 3px solid #ffb347; outline-off
   .mobile-nav > a:not(.button):hover { color: var(--blue); background: var(--pale); }
   .hero, .hero-inner { min-height: auto; }
   .hero-inner { grid-template-columns: 1fr; padding: 46px 0 38px; }
-  .hero-copy { padding: 0; }
-  h1 { max-width: 640px; font-size: clamp(42px, 7vw, 56px); line-height: 1.2; }
-  .hero-description { max-width: 660px; font-size: 17px; }
+  .hero-copy { padding: 0; text-align: center; }
+  h1 { max-width: 640px; margin-inline: auto; font-size: clamp(42px, 7vw, 54px); line-height: 1.39; }
+  .hero-description { max-width: 660px; margin-inline: auto; font-size: 18px; line-height: 1.78; }
+  .hero-points { width: fit-content; margin-inline: auto; text-align: left; }
+  .hero-actions { justify-content: center; }
   .hero-art { margin-top: 30px; }
   .banner-image { max-width: 620px; }
   .hero-chevrons { top: -12px; left: 8%; }
@@ -186,9 +188,9 @@ a:focus-visible, summary:focus-visible { outline: 3px solid #ffb347; outline-off
   .site-header { height: 66px; }
   .brand img { width: 132px; height: auto; }
   .hero-inner { padding: 34px 0 28px; }
-  h1 { margin-bottom: 18px; font-size: clamp(36px, 10vw, 44px); line-height: 1.18; }
+  h1 { margin: 0 auto 18px; font-size: 38px; line-height: 48px; }
   .desktop-break { display: none; }
-  .hero-description { font-size: 15px; line-height: 1.7; }
+  .hero-description { font-size: 18px; line-height: 32px; }
   .hero-points { gap: 11px; margin: 18px 0 22px; }
   .hero-points li { align-items: flex-start; font-size: 13px; }
   .hero-actions { display: grid; grid-template-columns: 1fr; gap: 12px; }
